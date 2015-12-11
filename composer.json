@@ -1,0 +1,20 @@
+{
+    "name": "yiisong/iconinput",
+    "description": "input select icon (font awesome) with yii2",
+    "authors": [
+        {
+            "name": "song",
+            "email": "c3306@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-bootstrap": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yiisong\\iconinput\\": ""
+        }
+    }
+}
